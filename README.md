@@ -23,5 +23,5 @@ I am a passionate developer with 2 years of experience in front-end and mobile d
 ## Let's Connect :handshake:
 
 📧Email: [phbento@outlook.com.br](mailto:your@email.com) <br>
-💼LinkedIn: linkedin.com/in/paulo-bento-b9551515a/ <br>
+💼LinkedIn: <a href="https://www.linkedin.com/in/paulo-bento-b9551515a/>"Paulo Bento </a> <br>
 :bird:Twitter: <a href="https://twitter.com/Dev_Bento">@Dev_Bento</a>
