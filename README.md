@@ -3,7 +3,7 @@
 
 <h1>Hello There! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am a passionate developer with 2 years of experience in front-end and mobile development. I specialize in languages such as JavaScript ES6, jQuery, React, Bootstrap, and Sass. Additionally, I have expertise in Flutter, Firebase, and GetX for mobile development. My skills extend beyond coding; I embrace agile methodologies, work with Linux, and excel in using Git for version control. Focused on UI/UX design, I advocate for clean code practices, ensuring appealing, functional, and high-quality projects.
+I am a Fullstack Developer with over 4 years of experience in front-end, back-end, and mobile development. I focus on creating scalable, responsive, and user-friendly applications, combining technical expertise with clean code practices. Passionate about technology, I continuously adapt to new trends and deliver high-quality solutions in collaborative, agile environments.
 
 ## Skill Set :muscle:
 
@@ -11,13 +11,14 @@ I am a passionate developer with 2 years of experience in front-end and mobile d
 
 **Libraries and Frameworks**
 
--   💻Front-end: JavaScript ES6, jQuery, React, Bootstrap, Sass
--   📱Mobile: Flutter, Firebase, GetX
+-   💻Front-end: JavaScript, Typescript, React, Vue, Angular, SASS/SCSS, Jquery, Gulp, Grunt
+-   ⚙️Back-end: Node, Express, NestJs, PHP, Laravel, .NET
+-   📱Mobile: React Native, Flutter
+-   🔧Tools: Cypress, Jest, Docker, Docker composer
 -   🚀Methodologies: Agile (Scrum, Kanban)
 -   🗄️Version Control: Git
--   🛢️Database: MySQL, Firestore
+-   🛢️Database: MySQL, Firestore, Postgresql, SQLServer
 -   🐧Operating System: Linux, Windows, Mac
--   🎨UI/UX Design
 -   🧹Clean Code
 
 ## Let's Connect :handshake:
